@@ -1,0 +1,38 @@
+
+class Solution {
+public:
+    void pattern9(int n) {
+
+        // Upper pyramid
+        for(int i=0; i<n; i++){
+
+            // Spaces
+            for(int j=0; j<n-i-1; j++){
+                cout << " ";
+            }
+
+            // Stars
+            for(int j=0; j<2*i+1; j++){
+                cout << "*";
+            }
+
+            cout << endl;
+        }
+
+        // Lower inverted pyramid
+        for(int i=0; i<n; i++){
+
+            // Spaces
+            for(int j=0; j<i; j++){
+                cout << " ";
+            }
+
+            // Stars
+            for(int j=0; j<2*n-1-2*i; j++){
+                cout << "*";
+            }
+
+            cout << endl;
+        }
+    }
+};
