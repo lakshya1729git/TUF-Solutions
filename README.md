@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 6 | 0 | 0 | `2026-11-23` |
+| **7** | 7 | 0 | 0 | `2026-11-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,6 +22,7 @@
 | 0004 | [Pattern 4](./DSA/Beginner-Problems/pattern-4) | [CPP](./DSA/Beginner-Problems/pattern-4/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
 | 0005 | [Pattern 5](./DSA/Beginner-Problems/pattern-5) | [CPP](./DSA/Beginner-Problems/pattern-5/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
 | 0006 | [Pattern 6](./DSA/Beginner-Problems/pattern-6) | [CPP](./DSA/Beginner-Problems/pattern-6/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
+| 0007 | [Pattern 7](./DSA/Beginner-Problems/pattern-7) | [CPP](./DSA/Beginner-Problems/pattern-7/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
 
 ---
 
