@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 9 | 0 | 0 | `2026-11-23` |
+| **10** | 9 | 1 | 0 | `2026-11-24` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -25,6 +25,8 @@
 | 0007 | [Pattern 7](./DSA/Beginner-Problems/pattern-7) | [CPP](./DSA/Beginner-Problems/pattern-7/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
 | 0008 | [Pattern 8](./DSA/Beginner-Problems/pattern-8) | [CPP](./DSA/Beginner-Problems/pattern-8/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
 | 0009 | [Pattern 9](./DSA/Beginner-Problems/pattern-9) | [CPP](./DSA/Beginner-Problems/pattern-9/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-23` |
+| 0010 | [46. Search in rotated sorted array-I
+POTD](./DSA/Arrays/search-in-rotated-sorted-array-i) | [CPP](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-24` |
 
 ---
 
